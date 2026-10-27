@@ -22,6 +22,6 @@ Clone or download this repository, open `index.html` in your browser, or run it 
 ### 🔐 Privacy
 Your transactions are stored locally in your browser. They are not uploaded to a server. Avoid storing sensitive financial information.
 
-**Created under the AJ-ORBIT*
+**Created under the AJ-ORBIT**
 
 [Instagram: @ajorbit.in](https://instagram.com/ajorbit.in)
