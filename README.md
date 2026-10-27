@@ -1,27 +1,18 @@
-# 🔴 AJ-ORBIT Student Expense Tracker
+# AJ-ORBIT Student Expense Tracker
 
-### Track Smarter. Save Better. Spend Mindfully.
+🚀 **Live Demo:** https://aj-orbit-student-expense-tracker.netlify.app/
 
-A modern, cyberpunk-inspired expense tracking dashboard built for students who want to manage their pocket money and develop better financial habits.
+A cyberpunk-inspired student expense tracker built with HTML, CSS, and JavaScript.
 
-✨ **Features**
-- 💰 Track income and daily expenses
-- 🎯 Set savings goals and monitor progress
-- 📊 View spending breakdowns by category
-- 🔎 Search and filter transactions
-- 📥 Export transactions to CSV
-- 🌌 Responsive neon-themed interface
-- 🔒 Local browser storage — no account or paid API required
+## Features
+- Track income and expenses
+- Monitor savings goals
+- Search and filter transactions
+- Export transactions to CSV
+- Save data locally in your browser
 
-### 🛠️ Built With
-HTML · CSS · JavaScript · LocalStorage
+## Tech Stack
+HTML • CSS • JavaScript • LocalStorage
 
-### 🚀 Getting Started
-Clone or download this repository, open `index.html` in your browser, or run it using VS Code with Live Server.
-
-### 🔐 Privacy
-Your transactions are stored locally in your browser. They are not uploaded to a server. Avoid storing sensitive financial information.
-
-**Created under the AJ-ORBIT**
-
+**Created by AJ-ORBIT**
 [Instagram: @ajorbit.in](https://instagram.com/ajorbit.in)
